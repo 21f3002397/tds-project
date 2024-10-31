@@ -1,3 +1,4 @@
+login,name,company,location,email,hireable,bio,public_reposfollowers,following,created_at
 nicknochnack,Nicholas Renotte,'',Sydney; Australia,'','',Data Science guy @IBM,193,11703,5,2013-11-15T15:06:35Z
 brendangregg,Brendan Gregg,INTEL,Sydney; Australia,'','',Cloud computing performance engineer.,42,8024,0,2011-10-04T08:48:56Z
 cornflourblue,Jason Watmore,POINT BLANK DEVELOPMENT,Sydney Australia,'','',Web Developer and Blogger; currently focusing on Angular; React; Vue; Node and .NET                     ...also travel vlogging at youtube.com/TinaAndJason,187,6701,0,2011-05-13T04:38:16Z
