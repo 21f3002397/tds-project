@@ -1,3 +1,4 @@
+login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license_name
 nicknochnack,nicknochnack/TechXAIStockAgent,2024-10-23T23:48:51Z,5,5,Python,True,True,''
 nicknochnack,nicknochnack/DataFrameAgentWatsonx,2024-10-04T03:37:19Z,6,6,Python,True,True,''
 nicknochnack,nicknochnack/jlite,2024-09-27T23:36:49Z,1,1,Jupyter Notebook,True,True,''
