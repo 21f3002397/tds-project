@@ -1,2 +1,3 @@
-# tds-project
-tds project
+- I used requests library to make requests to the github API using a classic token. The first request was made to the search endpoint. Then I recursively went to each users endpoint and got their respective information. Then I went through their repos endpoint to get their repository details
+- Analysis
+- Recommendation
